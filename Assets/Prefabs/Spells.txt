@@ -1,0 +1,77 @@
+Toutes les classes possèdent le sort Punch, Potion et BuffPm. Ils coutent 2 PA afin de pouvoir finir les tours avec les éventuels PA restant.
+Chaque classes possède 10 sorts. Les sorts sont encore sujet à équilibrage
+
+Cra : 
+	Attaque : 
+		Tormenting Arrow : La cible doit être comprises entre 3 et 6 cases de distance, dégâts de 20
+		Repulsive Arrow : La cible doit être allignée. Repousse d'une case, faible portée, dégâts de 20
+		Long Shot : Longue portée, dégâts de 15
+		FireBolt : La cible doit être alignée. Longue portée et dégâts de 25
+		Destructive Arrow : La cible doit être alignée, coute 6 pa, portée moyenne, cooldown de 5 tours, dégâts de 70.
+		Punch : Corps à corps, 10 dégâts
+	Buff :
+		Frozen Arrow : Debuff vers un ennemi, malus de pm et petit malus de résistance aux dégâts, dure 2 tours, 4 de cooldown
+		Armor Breaker : Tir longue distance, gros malus de résistance aux dégâts sur la cible, dure 1 tour, 3 de cooldown
+		BuffPm : +2 pm pendant 2 tours, cooldown de 3
+	Heal :
+		Potion : Heal de 10, sur soi même ou corps à corps, cooldown de 1.
+		
+Enirispa
+	Attaque : 
+		Punch : Corps à corps, 10 dégâts
+		Slighting word : Portée moyenne, coût de 4 pa, 20 dégâts
+	Buff :
+		BuffPm : +2 pm pendant 2 tours, cooldown de 3
+		Action Word : Donne + 2 pa à une autre cible pour son prochain tour, portée moyenne, cooldown de 2
+		Preventive Word : La cible doit être alignée, augmente de 10 sa résitance aux dégâts, dure 3 tours, cooldown de 3
+	Heal :
+		Distance Healing : Grand portée, Heal de 15, cooldown 1 tour.
+		Group Healing : Heal sur une zone de 2 de rayon, Heal de 20, cooldown de 2
+		Potion : Heal de 30, sur soi même ou corps à corps, cooldown de 1. La potion de l'enirispa est plus puissante que celle des autres
+		Word of recovery : Enorme heal sur une cible, coute 6 pa, courte portée, 8 de cooldown
+		Word of Youth : Heal de 15 à courte portée, faible coût
+
+Iop : 
+	Attaque :
+		Celestial Sword : Attaque sur une zone d'un rayon de 3, 15 dégâts, 1 de cooldown
+		Divine Sword : Attaque sur une zone en croix, faible portée, 20 de dégâts
+		Fit of rage : Corps à corps, coûte 6 pa, gros dégâts de 50, 4 de cooldown
+		Outpouring : La cible doit être alignée, le Iop se déplace au corps à corps de celle ci. Inflige 20 dégâts, cooldown de 2, coût de 4
+		Punch : Corps à corps, 15 dégâts, un peu plus puissant que les autres Punch.
+		Fracture : Attaque simple au Corps à corps, 25 dégâts
+	Buff : 
+		BuffPm : +2 pm pendant 2 tours, cooldown de 3
+		Power : Le iop obtient +3 pa pendant 2 tours mais perd 10 de résitance aux dégâts. Cooldown de 4
+		Virtue : Buff sur une zone de croix, fait perdre 1pm mais gagne 10 de résitance aux dégâts pendant 2 tours, cooldown de 3
+	Heal :
+		Potion : Heal de 10, sur soi même ou corps à corps, cooldown de 1.
+		
+Sacrieur : 
+	Attaque :
+		Attraction : La cible doit être allignée. Elle s'approche de 2 cases du lanceur, 15 de dégâts, cooldown de 1
+		Hostility : La cible doit être allignée. Elle est poussée de 2 cases, 10 de dégâts
+		Carnage : Dégâts sur une zone de 2 autour du lanceur (dont le lanceur). 40 de dégâts, 6 pa, 4 de cooldown
+		Punch : Corps à corps, 15 dégâts, un peu plus puissant que les autres Punch.
+	Buff :
+		BuffPm : +2 pm pendant 2 tours, cooldown de 3
+		Slaughter : Réduit la résistance aux dégâts de 10 dans une zone de 2 de rayon.
+		Wrath : Le lanceur perd 20 de résistance aux dégâts mais gagne +3 pa et +3 pm pendant 2 tours, 4 pa, cooldown de 6
+		Immunity : Le lanceur gagne 30 de résistance aux dégâts jusqu'à son prochain tour, 4 pa, cooldown de 5
+	Heal :
+		Potion : Heal de 10, sur soi même ou corps à corps, cooldown de 1.
+		Self Healing : Heal de 50 sur soi-même, cooldown de 3.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

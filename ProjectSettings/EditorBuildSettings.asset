@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: 0239840fe8949cf4680bce5b7c46ad05
+  - enabled: 1
+    path: Assets/Scenes/Game/Donjon-1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game/Donjon-2.unity
+    guid: 9abbf0e2e8bdf814e8521ce001790ca4
+  - enabled: 1
+    path: Assets/Scenes/Game/Donjon-3.unity
+    guid: b0ab2f47ed2678d4993dcf0a7dfabeaa
+  - enabled: 1
+    path: Assets/Scenes/Qlearn_1vs1/Donjon-qlearn.unity
+    guid: da70f519b00f5874eb1f4f545bcae189
+  m_configObjects: {}
